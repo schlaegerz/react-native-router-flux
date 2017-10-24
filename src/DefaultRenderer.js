@@ -16,7 +16,7 @@ import {
   StyleSheet,
   Dimensions,
 } from 'react-native';
-import NavigationExperimental from 'react-native-experimental-navigation';
+import NavigationExperimental from 'reactxp-experimental-navigation';
 
 import TabBar from './TabBar';
 import NavBar from './NavBar';

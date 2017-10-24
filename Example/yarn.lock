@@ -3004,9 +3004,9 @@ react-native-drawer@^2.3.0:
   dependencies:
     tween-functions "^1.0.1"
 
-react-native-experimental-navigation@0.26.x:
+reactxp-experimental-navigation@0.26.x:
   version "0.26.10"
-  resolved "https://registry.yarnpkg.com/react-native-experimental-navigation/-/react-native-experimental-navigation-0.26.10.tgz#355e37929a2bfb84088dca331f34bc575297df68"
+  resolved "https://registry.yarnpkg.com/reactxp-experimental-navigation/-/reactxp-experimental-navigation-0.26.10.tgz#355e37929a2bfb84088dca331f34bc575297df68"
   dependencies:
     babel-plugin-syntax-flow "^6.8.0"
     babel-plugin-transform-flow-strip-types "^6.8.0"
@@ -3015,9 +3015,9 @@ react-native-experimental-navigation@0.26.x:
     fbjs "^0.8.1"
     react-addons-pure-render-mixin "^15.0.2"
 
-react-native-experimental-navigation@^0.28.0:
+reactxp-experimental-navigation@^0.28.0:
   version "0.28.0"
-  resolved "https://registry.yarnpkg.com/react-native-experimental-navigation/-/react-native-experimental-navigation-0.28.0.tgz#561298190320cd336dc5b00c2e8bc2435cfb4909"
+  resolved "https://registry.yarnpkg.com/reactxp-experimental-navigation/-/reactxp-experimental-navigation-0.28.0.tgz#561298190320cd336dc5b00c2e8bc2435cfb4909"
   dependencies:
     babel-plugin-syntax-flow "^6.8.0"
     babel-plugin-transform-flow-strip-types "^6.8.0"
@@ -3031,7 +3031,7 @@ react-native-router-flux@^3.41.0:
   resolved "https://registry.yarnpkg.com/react-native-router-flux/-/react-native-router-flux-3.41.0.tgz#481367031ed413931e9b60605ddb8857267c1c85"
   dependencies:
     lodash.isequal "^4.5.0"
-    react-native-experimental-navigation "^0.28.0"
+    reactxp-experimental-navigation "^0.28.0"
     react-native-tabs "^1.0.9"
     react-static-container "^1.0.1"
 

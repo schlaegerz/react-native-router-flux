@@ -11,7 +11,7 @@ import React, {
   PropTypes,
 } from 'react';
 import { BackHandler } from 'react-native';
-import NavigationExperimental from 'react-native-experimental-navigation';
+import NavigationExperimental from 'reactxp-experimental-navigation';
 
 import Actions, { ActionMap } from './Actions';
 import getInitialStateFromRoot from './State';
