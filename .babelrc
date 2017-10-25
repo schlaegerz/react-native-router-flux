@@ -8,5 +8,6 @@
     "transform-export-extensions",
     "syntax-trailing-function-commas",
     "transform-exponentiation-operator",
+    "transform-remove-console"
   ]
 }
